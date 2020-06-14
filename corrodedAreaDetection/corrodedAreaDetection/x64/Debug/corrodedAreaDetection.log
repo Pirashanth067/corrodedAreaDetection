@@ -1,0 +1,60 @@
+﻿  corrodedAreaDetection.cpp
+c:\users\nishani\source\repos\corrodedareadetection\corrodedareadetection\corrodedareadetection.cpp(69): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\nishani\source\repos\corrodedareadetection\corrodedareadetection\corrodedareadetection.cpp(36): warning C4101: 'value': unreferenced local variable
+c:\users\nishani\source\repos\corrodedareadetection\corrodedareadetection\corrodedareadetection.cpp(120): warning C4244: '=': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+c:\users\nishani\source\repos\corrodedareadetection\corrodedareadetection\corrodedareadetection.cpp(121): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\nishani\source\repos\corrodedareadetection\corrodedareadetection\corrodedareadetection.cpp(132): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\nishani\source\repos\corrodedareadetection\corrodedareadetection\corrodedareadetection.cpp(135): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nishani\source\repos\corrodedareadetection\corrodedareadetection\corrodedareadetection.cpp(143): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nishani\source\repos\corrodedareadetection\corrodedareadetection\corrodedareadetection.cpp(148): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\nishani\source\repos\corrodedareadetection\corrodedareadetection\corrodedareadetection.cpp(149): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\nishani\source\repos\corrodedareadetection\corrodedareadetection\corrodedareadetection.cpp(150): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\nishani\source\repos\corrodedareadetection\corrodedareadetection\corrodedareadetection.cpp(161): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\nishani\source\repos\corrodedareadetection\corrodedareadetection\corrodedareadetection.cpp(162): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\nishani\source\repos\corrodedareadetection\corrodedareadetection\corrodedareadetection.cpp(163): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\nishani\source\repos\corrodedareadetection\corrodedareadetection\corrodedareadetection.cpp(168): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\nishani\source\repos\corrodedareadetection\corrodedareadetection\corrodedareadetection.cpp(169): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\nishani\source\repos\corrodedareadetection\corrodedareadetection\corrodedareadetection.cpp(170): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\nishani\source\repos\corrodedareadetection\corrodedareadetection\corrodedareadetection.cpp(98): warning C4101: 'value': unreferenced local variable
+c:\users\nishani\source\repos\corrodedareadetection\corrodedareadetection\corrodedareadetection.cpp(231): warning C4101: 'location': unreferenced local variable
+  corrodedAreaDetection.vcxproj -> C:\Users\Nishani\source\repos\corrodedAreaDetection\x64\Debug\corrodedAreaDetection.exe
